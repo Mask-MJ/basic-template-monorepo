@@ -1,0 +1,3 @@
+# 处理大小写敏感问题
+[core]
+    ignorecase = false

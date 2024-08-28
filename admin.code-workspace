@@ -1,0 +1,156 @@
+{
+  "folders": [
+    {
+      "name": "@admin/backend-mock",
+      "path": "apps/backend-mock",
+    },
+    {
+      "name": "@admin/web-naive",
+      "path": "apps/web-naive",
+    },
+    {
+      "name": "@admin/docs",
+      "path": "docs",
+    },
+    {
+      "name": "@admin/commitlint-config",
+      "path": "internal/lint-configs/commitlint-config",
+    },
+    {
+      "name": "@admin/eslint-config",
+      "path": "internal/lint-configs/eslint-config",
+    },
+    {
+      "name": "@admin/prettier-config",
+      "path": "internal/lint-configs/prettier-config",
+    },
+    {
+      "name": "@admin/stylelint-config",
+      "path": "internal/lint-configs/stylelint-config",
+    },
+    {
+      "name": "@admin/node-utils",
+      "path": "internal/node-utils",
+    },
+    {
+      "name": "@admin/tailwind-config",
+      "path": "internal/tailwind-config",
+    },
+    {
+      "name": "@admin/tsconfig",
+      "path": "internal/tsconfig",
+    },
+    {
+      "name": "@admin/vite-config",
+      "path": "internal/vite-config",
+    },
+    {
+      "name": "@admin-core/design",
+      "path": "packages/@core/base/design",
+    },
+    {
+      "name": "@admin-core/icons",
+      "path": "packages/@core/base/icons",
+    },
+    {
+      "name": "@admin-core/shared",
+      "path": "packages/@core/base/shared",
+    },
+    {
+      "name": "@admin-core/typings",
+      "path": "packages/@core/base/typings",
+    },
+    {
+      "name": "@admin-core/composables",
+      "path": "packages/@core/composables",
+    },
+    {
+      "name": "@admin-core/preferences",
+      "path": "packages/@core/preferences",
+    },
+    {
+      "name": "@admin-core/layout-ui",
+      "path": "packages/@core/ui-kit/layout-ui",
+    },
+    {
+      "name": "@admin-core/menu-ui",
+      "path": "packages/@core/ui-kit/menu-ui",
+    },
+    {
+      "name": "@admin-core/popup-ui",
+      "path": "packages/@core/ui-kit/popup-ui",
+    },
+    {
+      "name": "@admin-core/tabs-ui",
+      "path": "packages/@core/ui-kit/tabs-ui",
+    },
+    {
+      "name": "@admin/constants",
+      "path": "packages/constants",
+    },
+    {
+      "name": "@admin/access",
+      "path": "packages/effects/access",
+    },
+    {
+      "name": "@admin/common-ui",
+      "path": "packages/effects/common-ui",
+    },
+    {
+      "name": "@admin/hooks",
+      "path": "packages/effects/hooks",
+    },
+    {
+      "name": "@admin/layouts",
+      "path": "packages/effects/layouts",
+    },
+    {
+      "name": "@admin/plugins",
+      "path": "packages/effects/plugins",
+    },
+    {
+      "name": "@admin/request",
+      "path": "packages/effects/request",
+    },
+    {
+      "name": "@admin/icons",
+      "path": "packages/icons",
+    },
+    {
+      "name": "@admin/locales",
+      "path": "packages/locales",
+    },
+    {
+      "name": "@admin/preferences",
+      "path": "packages/preferences",
+    },
+    {
+      "name": "@admin/stores",
+      "path": "packages/stores",
+    },
+    {
+      "name": "@admin/styles",
+      "path": "packages/styles",
+    },
+    {
+      "name": "@admin/types",
+      "path": "packages/types",
+    },
+    {
+      "name": "@admin/utils",
+      "path": "packages/utils",
+    },
+    {
+      "name": "@admin/playground",
+      "path": "playground",
+    },
+    {
+      "name": "@admin/turbo-run",
+      "path": "scripts/turbo-run",
+    },
+    {
+      "name": "@admin/vsh",
+      "path": "scripts/vsh",
+    },
+  ],
+}

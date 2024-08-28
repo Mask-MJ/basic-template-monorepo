@@ -1,0 +1,25 @@
+{
+  "name": "@admin/tsconfig",
+  "version": "1.0.0",
+  "private": true,
+  "homepage": "https://github.com/mask-mj/basic-template-monorepo",
+  "bugs": "https://github.com/mask-mj/basic-template-monorepo/issues",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mask-mj/basic-template-monorepo.git",
+    "directory": "internal/tsconfig"
+  },
+  "license": "MIT",
+  "type": "module",
+  "files": [
+    "base.json",
+    "library.json",
+    "node.json",
+    "web-app.json",
+    "web.json"
+  ],
+  "dependencies": {
+    "@admin/types": "workspace:*",
+    "vite": "^5.4.2"
+  }
+}

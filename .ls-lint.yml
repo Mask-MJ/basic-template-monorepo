@@ -1,0 +1,26 @@
+# 检查文件命名格式
+ls:
+  .js: kebab-case | pointcase
+  .vue: kebab-case | pointcase
+  .ts: kebab-case | pointcase
+  .tsx: kebab-case | pointcase
+  .jsx: kebab-case | pointcase
+  .css: kebab-case | pointcase
+  .d.ts: kebab-case | pointcase
+
+ignore:
+  - "**/*.png"
+  - "**/*.jpg"
+  - "**/*.jpeg"
+  - "**/*.jpeg"
+  - "**/*.gif"
+  - "**/_util.ts"
+  - "**/deps/**"
+  - "**/dist/**"
+  - "**/node_modules/**"
+  - "**/.turbo/**"
+  - .git
+  - .vscode
+  - .idea
+  - node_modules
+  - .cache
